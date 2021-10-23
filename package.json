@@ -1,0 +1,21 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "tests",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chromedriver": "^94.0.0"
+  },
+  "devDependencies": {
+    "nightwatch": "^1.7.11",
+    "selenium-server-standalone-jar": "^3.141.59"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
